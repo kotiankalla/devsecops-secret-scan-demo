@@ -1,3 +1,2 @@
-# devsecops-secret-scan-demo
-Sample repo for secret scanning demo
-ghp_0123456789abcdefghijklmnopqrstuvwxyzAB
+My test token:
+ghp_8fK9xZpA3vT4LqW2N1JH0cE7Y6R5MDSA
