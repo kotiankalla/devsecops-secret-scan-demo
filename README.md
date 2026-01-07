@@ -1,2 +1,1 @@
-My test token:
 ghp_8fK9xZpA3vT4LqW2N1JH0cE7Y6R5MDSA
