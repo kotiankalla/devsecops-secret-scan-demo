@@ -1,0 +1,13 @@
+name: Hello GitHub Actions
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  hello-job:
+    runs-on: windows
+
+    steps:
+      - name: Say Hello
+        run: echo "Hello from GitHub Actions!"
