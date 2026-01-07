@@ -1,4 +1,1 @@
-ghp_0123456789abcdefghijklmnopqrstuvwxyzAB
-
-password=admin123;
-api_key="my-secret-key";
+ghp_8fK9xZpA3vT4LqW2N1JH0cE7Y6R5MDSA
